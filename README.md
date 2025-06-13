@@ -100,7 +100,6 @@ Result:
   ![image](https://github.com/user-attachments/assets/4a991d4d-7d84-4671-b3e3-fdab8f1057ed)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454658039-864cff83-42e2-4c39-97c5-972afcced747.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141052Z&X-Amz-Expires=300&X-Amz-Signature=09866116df3de7d73d70e5ebe99ea88eceab16b8cf99e0ee324f2fd902491c52&X-Amz-SignedHeaders=host">
   ![image](https://github.com/user-attachments/assets/91d722d7-f742-4722-a4f7-973976fd19d4)
 
 #### Delete Customer
@@ -185,7 +184,7 @@ Result:
 #### Delete Item
 - Delete Item from SQL Accounting Database
 - Call API endpoint => https://dingdon-sql.ddns.net:2211/api/Items/DeleteItem/{itemCode}
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454671817-63527e8b-b720-44ea-83c8-f34fe2c7cc32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141518Z&X-Amz-Expires=300&X-Amz-Signature=4d04394e484248ece2999f6f08e5b3b73f52e04da728e67b3f456054d2db621f&X-Amz-SignedHeaders=host">
+  <![image](https://github.com/user-attachments/assets/6abe0f53-fb21-4a6c-833e-12463a75b671)
 
 - Result:
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454671855-5754277d-52d3-4212-8893-c6206ca0b268.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141536Z&X-Amz-Expires=300&X-Amz-Signature=247ae211459eecf9db1890716e24ecfd85ba39b29d5ecf722eb57862d6bdc9c1&X-Amz-SignedHeaders=host">
