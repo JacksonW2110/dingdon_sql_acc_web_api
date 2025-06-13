@@ -92,33 +92,33 @@ Result:
   ![image](https://github.com/user-attachments/assets/249847b5-6848-4bf7-b76c-328d9728741f)
 
 - Result
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454661722-baeb010f-f9ef-4e55-8401-4638aa2d3a1a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T140904Z&X-Amz-Expires=300&X-Amz-Signature=b1c51ad4fc6348fd656c74e232892a5c1af60544a23044e984411ff588debc0a&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/8b737a60-5c5e-4815-a658-907f89458342)
 
 #### Get Customer By Code
 - Get Customer from SQL Accounting Database by Code
 - Call API endpoint => https://dingdon-sql.ddns.net:2211/api/Customers/GetCustomerByCode/{customerCode}
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454657968-a834146f-748b-4912-8911-a924a9782877.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141026Z&X-Amz-Expires=300&X-Amz-Signature=4c5410e10950a75f0aaf0f730b09555b9d9dd79963c4c26ed42525451bf14881&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/4a991d4d-7d84-4671-b3e3-fdab8f1057ed)
 
 - Result:
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454658039-864cff83-42e2-4c39-97c5-972afcced747.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141052Z&X-Amz-Expires=300&X-Amz-Signature=09866116df3de7d73d70e5ebe99ea88eceab16b8cf99e0ee324f2fd902491c52&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/91d722d7-f742-4722-a4f7-973976fd19d4)
 
 #### Delete Customer
 - Delete Customer from SQL Accounting Database
 - Call API endpoint => https://dingdon-sql.ddns.net:2211/api/Customers/DeleteCustomer/{customerCode}
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454650828-6681e770-7a53-426c-a00f-b605c538a8d7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141115Z&X-Amz-Expires=300&X-Amz-Signature=08845d0e6a4eb9a8c18fa456912ec785f39459326f88fcbffe37161bc65acb6f&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/dd60d8ab-29ac-4682-bac5-5ec5318f713b)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454651038-e91f81f8-09b1-45ad-94d8-147d23bf5c92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141139Z&X-Amz-Expires=300&X-Amz-Signature=7be994f8043a45c7b17edc9fd37aff8382f33e036321e33cc4642d055cd52300&X-Amz-SignedHeaders=host">
-
+  ![image](https://github.com/user-attachments/assets/0e5d055b-eec7-4e9c-a906-c1b0e50e5430)
 
 ### Item
 #### Get All Items
 - Get All Items from SQL Accounting Database
 - Call API endpoint => https://dingdon-sql.ddns.net:2211/api/Items/GetAllItems
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454663309-54dbcb12-3336-486e-b3f5-bbc03899cd91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141229Z&X-Amz-Expires=300&X-Amz-Signature=a19c982fc1e31ad3099a15ccede096a2f4ccd61ed9bc6c6ead2dec93fd5b488b&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/cef4cb41-8b10-48c3-b67a-96b70e2c9617)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454663360-73369e0e-f519-4713-8db7-a912e71d661e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141251Z&X-Amz-Expires=300&X-Amz-Signature=6349118eb76c9d1ad92fd3790891b3a7118adcd9e00959ffc46b89d91dcce6fb&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/d023fc98-cd34-4711-b6eb-1228c5508431)
 
 #### Add Item
 - Add Item to SQL Accounting Database
@@ -142,10 +142,10 @@ Result:
   ]
 }
 ```
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454669276-9c06ca9b-7763-4039-9106-485768bfea9f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141316Z&X-Amz-Expires=300&X-Amz-Signature=9bdc9b4b4e75299e8377a8844d6623d07d653e89f68693d1f67f6581e27e700a&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/f0cb057b-f971-4d06-a38d-51c519905af5)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454669332-8b43a1a0-5dcb-4f90-801d-4367d87c8948.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141336Z&X-Amz-Expires=300&X-Amz-Signature=1a6858738d4d09263d45c75dd5460146001404f54326e435e469f4cbd35fa13b&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/4aa8ba7b-f026-4469-980e-52d6dfff811c)
 
 #### Update Item
 - Update Item to SQL Accounting Database
@@ -169,18 +169,18 @@ Result:
     ]
   }
   ```
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454670689-c78a118c-02c8-4e8e-bbe0-c0e75ba73478.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141400Z&X-Amz-Expires=300&X-Amz-Signature=264b303d0918aa872a43bac9f848ee46611c2bdde12ccffd302d28c8a664974a&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/d8b6a3cd-e593-4b65-b488-9c988ef08e7c)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454670740-24c55f85-6a26-4a0c-846d-04b82186d444.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141421Z&X-Amz-Expires=300&X-Amz-Signature=9dc72384c9e6bc20f28d539641db32594f2042c277f6a8823fc5bffef11c30c1&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/89de4fcb-7069-41d1-9ac3-2733b9aca289)
 
 #### Get Item by ItemCode
 - Get Item by ItemCode from SQL Accounting Database
 - Call API endpoint => https://dingdon-sql.ddns.net:2211/api/Items/GetItemByItemCode/{itemCode}
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454671380-c9b6f7a1-978b-493f-8dfe-3420221c5f3b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141440Z&X-Amz-Expires=300&X-Amz-Signature=e029ffa8cebaf3104f33132ff19721e5d2fe70a9a64aa1cb50f1462ec3d63104&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/f96b4871-13b9-4e8e-bff8-03ebf33d1c2f)
 
 - Result:
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454671414-83c2a248-50a2-42a0-961d-34c6822bee2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T141459Z&X-Amz-Expires=300&X-Amz-Signature=a8f5d5f315ddcfc6708ee95e1cb74efc768a817495506fb49f0acd23002dbf0b&X-Amz-SignedHeaders=host">
+  ![image](https://github.com/user-attachments/assets/a88de8bc-8999-4a8f-a352-b12da4e196a7)
 
 #### Delete Item
 - Delete Item from SQL Accounting Database
