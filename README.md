@@ -10,6 +10,7 @@
   "email": "EMAIL",
   "password": "PASSWORD"
 ```
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/183855054/454645671-0505358a-3986-4340-b85f-372c46116135.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T135911Z&X-Amz-Expires=300&X-Amz-Signature=41e615f61fdf9264c2faa6cbcb326c078cc350cacf1dcfe7fd3999ff1f325e55&X-Amz-SignedHeaders=host" >
 ![image](https://github.com/user-attachments/assets/0505358a-3986-4340-b85f-372c46116135)
 
 Result:
