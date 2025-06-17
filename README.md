@@ -263,7 +263,7 @@ Result:
 
 #### Get SalesInvoice by InvoiceNo
 - Get SalesInvoice by InvoiceNo from SQL Accounting Database
-- Call API endpoint => https://dingdon-sql.ddns.net:2211/api/SalesInvoices/GetSalesInvoiceByDocNo/INV-20250613-001
+- Call API endpoint => https://dingdon-sql.ddns.net:2211/api/SalesInvoices/GetSalesInvoiceByDocNo/{invoiceNo}
   ![image](https://github.com/user-attachments/assets/3a4432f5-b04c-4cb9-befd-1d173c85b7e6)
 
 - Result:
