@@ -129,6 +129,7 @@ Result:
   "stockgroup": "string",
   "stockcontrol": true,
   "costingmethod": 0,
+  "balsqty": 8,
   "addItemUomRequestDtos": [
     {
       "uom": "string",
@@ -140,10 +141,14 @@ Result:
   ]
 }
 ```
-  ![image](https://github.com/user-attachments/assets/f0cb057b-f971-4d06-a38d-51c519905af5)
+  <img width="1272" height="718" alt="image" src="https://github.com/user-attachments/assets/0efe284b-6662-4d4f-8767-dbb969cbadeb" />
+  <img width="1279" height="302" alt="image" src="https://github.com/user-attachments/assets/281b663d-09bb-4777-a62d-9c4af370cd4e" />
 
 - Result:
-  ![image](https://github.com/user-attachments/assets/4aa8ba7b-f026-4469-980e-52d6dfff811c)
+  <img width="1271" height="840" alt="image" src="https://github.com/user-attachments/assets/0062a606-adc1-44bb-9766-aaf806dc93bc" />
+  <img width="1270" height="143" alt="image" src="https://github.com/user-attachments/assets/c2f5d569-8291-41fb-9e9a-4578f090457d" />
+
+
 
 #### Update Item
 - Update Item to SQL Accounting Database
@@ -156,6 +161,7 @@ Result:
     "stockgroup": "string",
     "stockcontrol": true,
     "costingmethod": 0,
+    "balsqty": 8;
     "updateItemUomRequestDtos": [
       {
         "uom": "string",
@@ -167,10 +173,14 @@ Result:
     ]
   }
   ```
-  ![image](https://github.com/user-attachments/assets/d8b6a3cd-e593-4b65-b488-9c988ef08e7c)
+  <img width="1290" height="776" alt="image" src="https://github.com/user-attachments/assets/bbbd7c6f-d01e-4b7d-af55-7a19257dd53f" />
+  <img width="1286" height="199" alt="image" src="https://github.com/user-attachments/assets/f81ed432-8de7-4d09-a71f-cb987c42359e" />
+
 
 - Result:
-  ![image](https://github.com/user-attachments/assets/89de4fcb-7069-41d1-9ac3-2733b9aca289)
+  <img width="1268" height="862" alt="image" src="https://github.com/user-attachments/assets/b42768e0-065e-4c9a-a8b3-0006c16a9398" />
+  <img width="1280" height="233" alt="image" src="https://github.com/user-attachments/assets/d2eeba49-0172-4713-95f2-aab85ebaeeb0" />
+
 
 #### Get Item by ItemCode
 - Get Item by ItemCode from SQL Accounting Database
