@@ -129,7 +129,7 @@ Result:
   "stockgroup": "string",
   "stockcontrol": true,
   "costingmethod": 0,
-  "balsqty": 8,
+  "balsqty": 0,
   "addItemUomRequestDtos": [
     {
       "uom": "string",
@@ -161,7 +161,7 @@ Result:
     "stockgroup": "string",
     "stockcontrol": true,
     "costingmethod": 0,
-    "balsqty": 8;
+    "balsqty": 0;
     "updateItemUomRequestDtos": [
       {
         "uom": "string",
